@@ -9,3 +9,5 @@ Bienvenido a Erlang Hispano!
 .. toctree::
    :maxdepth: 2
 
+   proyectos
+   librerias
