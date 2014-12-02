@@ -6,8 +6,8 @@ Aqui hay una lista de librerias recomendadas para utilizar en erlang para multip
 Build Tools
 -----------
 
-* erlang.mk
-* rebar
+* `erlang.mk <>`_
+* `rebar <https://github.com/rebar/rebar>`_
 
 Parsers
 -------
@@ -15,40 +15,71 @@ Parsers
 JSON
 ....
 
-* jsx
+* `jsx <>`_
 
 Otros
 .....
 
-* erldn
+* `erldn <>`_
 
 Web Frameworks
 --------------
 
-* Nitrogen
-* Chicago BOSS
+* `Nitrogen <https://github.com/nitrogen/nitrogen>`_
+* `Chicago BOSS <https://github.com/ChicagoBoss/ChicagoBoss>`_
  
 Web Servers
 -----------
 
-* Cowboy
-* Yaws
+* `Cowboy <https://github.com/ninenines/cowboy>`_
+* `Yaws <https://github.com/klacke/yaws>`_
+* `Mochiweb <https://github.com/mochi/mochiweb>`_
+* `Webmachine <https://github.com/basho/webmachine>`_
 
 Clientes HTTP
 -------------
 
-* Hackney
+* `Hackney <https://github.com/benoitc/hackney>`_
 
-Bases de Datos
---------------
+Clientes de Bases de Datos
+--------------------------
+
+* `couchbeam <https://github.com/benoitc/couchbeam>`_
+* `riak <https://github.com/basho/riak-erlang-client>`_
 
 Testing
 -------
 
-* Common Test
-* EUnit
+* `Common Test <>`_
+* `EUnit <>`_
 
 Logging
 -------
 
-* Lager
+* `Lager <https://github.com/basho/lager>`_
+
+Metrics
+-------
+
+* `Exometer <https://github.com/Feuerlabs/exometer>`_
+* `Folsom <https://github.com/boundary/folsom>`_
+
+Map Reduce
+----------
+
+* `Disco <https://github.com/discoproject/disco>`_
+
+Benchmarks
+----------
+
+* `Tsung <https://github.com/processone/tsung>`_
+
+Cloud
+-----
+
+* `erlcloud <https://github.com/gleber/erlcloud>`_
+
+Geolocation
+-----------
+
+* `egeoip  <https://github.com/mochi/egeoip>`_

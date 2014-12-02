@@ -6,18 +6,18 @@ En esta pagina se listan proyectos o productos realizados con erlang.
 Bases de Datos
 --------------
 
-* CouchDB
-* Riak
-* SimpleDB
+* `CouchDB <http://couchdb.apache.org/>`_
+* `Riak <http://basho.com/riak/>`_
+* `SimpleDB <https://aws.amazon.com/simpledb/>`_
 
 Message Queues
 --------------
 
-* RabbitMQ
+* `RabbitMQ <http://www.rabbitmq.com/>`_
 
 Chat
 ----
 
-* ejabberd
-* Whatsapp
+* `ejabberd <https://www.process-one.net/en/ejabberd/>`_
+* `Whatsapp <https://www.whatsapp.com/>`_
 
