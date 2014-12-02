@@ -11,3 +11,5 @@ Bienvenido a Erlang Hispano!
 
    proyectos
    librerias
+   usos-erlang
+   empezando
