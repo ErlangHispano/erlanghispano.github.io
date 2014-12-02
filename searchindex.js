@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:[],index:[],modul:[],search:[],page:[]},objtypes:{},objnames:{},filenames:["index"],titles:["Bienvenido a Erlang Hispano!"],objects:{},titleterms:{erlang:0,welcom:[],bienvenido:0,indic:[],tabl:[],document:[],hispano:0}})
