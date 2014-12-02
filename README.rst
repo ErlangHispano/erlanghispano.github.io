@@ -16,3 +16,9 @@ Tambien tenes que instalar el tema que usamos::
 y hacer::
 
     make html
+
+despues::
+
+    git add .
+    git commit
+    git push origin master
