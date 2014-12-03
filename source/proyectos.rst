@@ -43,7 +43,12 @@ MySQL, MongoDB y ElasticSearch.
 
 https://github.com/inaka/sumo_db
 
+Shotgun
+.......
 
+Cliente HTTP implementado sobre `gun <https://github.com/extend/gun>`_.
+
+https://github.com/inaka/shotgun
 
 Mariano Guerra
 --------------
