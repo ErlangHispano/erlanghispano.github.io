@@ -6,8 +6,8 @@ Aqui hay una lista de librerias recomendadas para utilizar en erlang para multip
 Build Tools
 -----------
 
-* erlang.mk
-* rebar
+* `erlang.mk <https://github.com/ninenines/erlang.mk>`_
+* `rebar <https://github.com/rebar>`_
 
 Parsers
 -------
@@ -15,29 +15,32 @@ Parsers
 JSON
 ....
 
-* jsx
+* `jsx <https://github.com/talentdeficit/jsx/>`_ / `jsxn <https://github.com/talentdeficit/jsxn/>`_
+* `jiffy <https://github.com/davisp/jiffy/>`_
 
 Otros
 .....
 
-* erldn
+* `erldn <https://github.com/marianoguerra/erldn>`_
 
 Web Frameworks
 --------------
 
-* Nitrogen
-* Chicago BOSS
- 
+* `Nitrogen <https://github.com/nitrogen/nitrogen>`_
+* `Chicago BOSS <https://github.com/ChicagoBoss/ChicagoBoss>`_
+
 Web Servers
 -----------
 
-* Cowboy
-* Yaws
+* `Cowboy <https://github.com/ninenines/cowboy>`_
+* `Yaws <https://github.com/klacke/yaws>`_
 
 Clientes HTTP
 -------------
 
-* Hackney
+* `Hackney <https://github.com/benoitc/hackney>`_
+* `Shotgun <https://github.com/inaka/shotgun>`_
+* `ibrowse <https://github.com/cmullaparthi/ibrowse>`_
 
 Bases de Datos
 --------------
@@ -45,10 +48,16 @@ Bases de Datos
 Testing
 -------
 
-* Common Test
-* EUnit
+* `Common Test <https://github.com/erlang/otp/tree/maint/lib/common_test>`_
+* `EUnit <https://github.com/richcarl/eunit>`_
 
 Logging
 -------
 
-* Lager
+* `Lager <https://github.com/basho/lager>`_
+
+
+Linters
+-------
+
+* `Elvis <https://github.com/inaka/elvis>`_
