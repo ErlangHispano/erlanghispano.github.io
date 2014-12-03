@@ -1,6 +1,55 @@
 Proyectos de miembros de la comunidad
 =====================================
 
+Inaka
+-----
+
+Todos los proyectos de código libre de Inaka pueden encontrarse en http://inaka.github.io/.
+La siguiente es una lista de sólo algunos de ellos.
+
+Edis
+....
+
+Implementacion de Redis en Erlang.
+
+https://github.com/inaka/edis
+
+apns4erl
+........
+
+Servidor de Notificaciones Push de Apple para Erlang.
+
+https://github.com/inaka/apns4erl
+
+Elvis
+.....
+
+Verificador de estilo de código Erlang.
+
+https://github.com/inaka/elvis
+
+Erlang Guidelines
+.................
+
+Guía de estilo para código Erlang utilizada en Inaka.
+
+https://github.com/inaka/erlang_guidelines
+
+SumoDB
+......
+
+Framework de persistencia para Erlang. Soporta distintas bases de datos como
+MySQL, MongoDB y ElasticSearch.
+
+https://github.com/inaka/sumo_db
+
+Shotgun
+.......
+
+Cliente HTTP implementado sobre `gun <https://github.com/extend/gun>`_.
+
+https://github.com/inaka/shotgun
+
 Mariano Guerra
 --------------
 
@@ -54,5 +103,3 @@ Efene
 Un lenguaje de programacion para la maquina virtual de erlang
 
 https://github.com/marianoguerra/efene
-
-

@@ -6,7 +6,7 @@ Aqui hay una lista de librerias recomendadas para utilizar en erlang para multip
 Build Tools
 -----------
 
-* `erlang.mk <>`_
+* `erlang.mk <https://github.com/ninenines/erlang.mk>`_
 * `rebar <https://github.com/rebar/rebar>`_
 
 Parsers
@@ -15,19 +15,20 @@ Parsers
 JSON
 ....
 
-* `jsx <>`_
+* `jsx <https://github.com/talentdeficit/jsx/>`_ / `jsxn <https://github.com/talentdeficit/jsxn/>`_
+* `jiffy <https://github.com/davisp/jiffy/>`_
 
 Otros
 .....
 
-* `erldn <>`_
+* `erldn <https://github.com/marianoguerra/erldn>`_
 
 Web Frameworks
 --------------
 
 * `Nitrogen <https://github.com/nitrogen/nitrogen>`_
 * `Chicago BOSS <https://github.com/ChicagoBoss/ChicagoBoss>`_
- 
+
 Web Servers
 -----------
 
@@ -40,6 +41,8 @@ Clientes HTTP
 -------------
 
 * `Hackney <https://github.com/benoitc/hackney>`_
+* `Shotgun <https://github.com/inaka/shotgun>`_
+* `ibrowse <https://github.com/cmullaparthi/ibrowse>`_
 
 Clientes de Bases de Datos
 --------------------------
@@ -50,13 +53,18 @@ Clientes de Bases de Datos
 Testing
 -------
 
-* `Common Test <>`_
-* `EUnit <>`_
+* `Common Test <https://github.com/erlang/otp/tree/maint/lib/common_test>`_
+* `EUnit <https://github.com/richcarl/eunit>`_
 
 Logging
 -------
 
 * `Lager <https://github.com/basho/lager>`_
+
+Linters
+-------
+
+* `Elvis <https://github.com/inaka/elvis>`_
 
 Metrics
 -------
